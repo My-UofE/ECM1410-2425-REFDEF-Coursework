@@ -1,6 +1,6 @@
 # ECM1410-2425-REFDEF-Coursework
 
-The ECM1410 REFDEF coursework follows the a modified version of the coursework given in term 2 but with different games types and score systems.
+The ECM1410 REFDEF coursework follows the a modified version of the coursework given in term 2 but with different games types and score systems. Should you have any questions or issues while completing the work please contat the module teaching staff.
 
 (See the PDF for full instructions)
 

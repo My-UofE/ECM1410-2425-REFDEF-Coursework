@@ -1,10 +1,20 @@
 # ECM1410-2425-REFDEF-Coursework
 
-The ECM1410 REFDEF coursework follows the a modified version of the coursework given in term 2 but with different games types and score systems. Should you have any questions or issues while completing the work please contat the module teaching staff.
+The ECM1410 REFDEF coursework follows the a modified version of the coursework given in term 2 but with different games types and score systems. Should you have any questions or issues while completing the work please contact the module teaching staff.
 
-(See the PDF for full instructions)
+Due to a current issue with the GitHub classroom account when accepting the assignment you will start with an empty directory. To obtain the starter code, please launch the CodeSpaces link to work on your project and run the following commands in the terminal.
 
-Instead of WORDMASTER and DICEROLL, the games options (and scoring systems) are:
+```
+curl https://raw.githubusercontent.com/My-UofE/ECM1410-2425-REFDEF-Coursework/refs/heads/main/starter_project.zip -o ./starter_project.zip 
+unzip starter_project.zip
+rm starter_project.zip
+```
+
+Note that you should be able to draw on the work you may have already completed on the original coursework task if you already worked on this. 
+
+The key difference is that instead of the leagues working to record WORDMASTER and DICEROLL games. In particular this means the file GameType.java contains different entries. 
+
+For this assignment the games options (and scoring systems) are:
 
 ### WORDLE
 

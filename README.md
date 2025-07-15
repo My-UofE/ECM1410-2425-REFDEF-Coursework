@@ -27,3 +27,17 @@ or
 
  - the result of a TETRIS game for an individual is a score indicating how many levels the player completed in the daily TETRIS game. 
  - To allocate league points each day the player(s) with the greatest score wins (i.e. ranking is in order of score high to low) and the winner(s) get awarded 1 league point. No other players are awarded league points. 
+
+
+## Testing
+
+For your convenience I have modified the existing test code so that it is updated from setting up leagues referencing the WORDMASTER and DICEROLL games to reference WORDLE and TETRIS instead.
+
+```
+curl https://raw.githubusercontent.com/My-UofE/ECM1410-2425-REFDEF-Coursework/refs/heads/main/TestOperation_REFDEF.zip -o ./TestOperation_REFDEF.zip 
+unzip TestOperation_REFDEF.zip
+```
+
+Then follow the instructions in the `README.md` file inside.
+
+The reference text files contain the expected outputs when I run on the reference completed code. Please review and compare the outputs wto your own, and make sure that you have not included any outputs (e.g. for debugging) in your final code as the grader looks for an exact match between student and reference code outputs.
